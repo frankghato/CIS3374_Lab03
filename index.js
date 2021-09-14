@@ -5,6 +5,6 @@ function changeText()
 
 function changeImage()
 {
-    document.getElementById("img").src = "assets/download.png"; 
+    document.getElementById("img").src = "assets/blue.webp"; 
     document.getElementById("text").innerHTML = "how could you";
 }
